@@ -23,6 +23,7 @@
         $data = [
             'kode' => $this->input->post('kode'),
             'nama' => $this->input->post('nama'),
+            'alamat' => $this->input->post('alamat'),
             'sks' => $this->input->post('sks')
         ];
 

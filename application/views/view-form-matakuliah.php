@@ -27,6 +27,11 @@
                     <td> <input type="text" name="nama" id="nama"> </td>
                 </tr>
                 <tr>
+                    <th>Alamat</th>
+                    <td>:</td>
+                    <td> <input type="text" name="alamat" id="alamat"> </td>
+                </tr>
+                <tr>
                     <th>SKS</th>
                     <td>:</td>
                     <td> <select name="sks" id="sks">
